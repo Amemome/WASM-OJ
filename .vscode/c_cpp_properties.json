@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/compiler/emsdk/upstream/emscripten/system/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/compiler/emsdk/upstream/bin/clang++.exe",
+            "intelliSenseMode": "windows-clang-x64",
+            "windowsSdkVersion": "10.0.22621.0"
+        }
+    ],
+    "version": 4
+}
